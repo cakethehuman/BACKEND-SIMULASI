@@ -1,5 +1,2 @@
-import random
-
-x = random.randint(10,12)
-
-print(x)
+import seaborn as sns
+import numpy as np
