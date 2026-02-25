@@ -1,5 +1,7 @@
+# imports
 import turtle
 
+# Set up
 myTurtle = turtle.Turtle()
 
 myScreen = turtle.Screen()
